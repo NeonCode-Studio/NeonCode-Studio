@@ -32,9 +32,10 @@
 
 ### 📊 Statystyki GitHub
 
+<!-- Statystyki ogólne + Języki -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neoncode-studio&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoncode-studio&theme=tokyonight&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neoncode-studio&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Statystyki GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoncode-studio&layout=compact&theme=tokyonight" alt="Najczęściej używane języki" width="49%" />
 </p>
 
 <!-- Alternatywny wykres aktywności (działa zawsze) -->
