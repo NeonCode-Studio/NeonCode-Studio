@@ -1,7 +1,7 @@
 <!-- BANER GŁÓWNY -->
 <p align="center">
   <!-- Wstaw tu link do swojego banera (np. po wgraniu pliku do repozytorium lub na zewnętrzny hosting) -->
-  <img src="https://raw.githubusercontent.com/NeonCode-Studio/NeonCode-Studio/main/banner.png" alt="NeonCode Studio Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/NeonCode-Studio/NeonCode-Studio/main/e589817c4b977a3a3c98a9a71e03bf08.jpg" alt="NeonCode Studio Banner" width="100%" />
 </p>
 
 <h1 align="center">Cześć! Jestem NeonCode Studio 👋</h1>
