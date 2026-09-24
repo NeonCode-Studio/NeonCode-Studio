@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- BANER GŁÓWNY -->
+<p align="center">
+  <!-- Wstaw tu link do swojego banera (np. po wgraniu pliku do repozytorium lub na zewnętrzny hosting) -->
+  <img src="https://raw.githubusercontent.com/NeonCode-Studio/NeonCode-Studio/main/banner.png" alt="NeonCode Studio Banner" width="100%" />
+</p>
 
-<!--
-**NeonCode-Studio/NeonCode-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Cześć! Jestem NeonCode Studio 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Pasjonat niskopoziomowego programowania, Linuksa i projektów Hardware/IoT.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 O mnie
+- 🔭 **Projekty:** Tworzę oprogramowanie w C++, C, Java oraz skrypty w Pythonie.
+- 🛠️ **Hobby:** Bawię się mikrokontrolerami (ESP32, Arduino), systemami Linux (Fedora, Kali) i modyfikacją sprzętu.
+- ⚡ **NeonCode OS:** Rozwijam własne eksperymentalne projekty systemowe i narzędzia TUI.
+
+---
+
+### 🛠️ Stack technologiczny
+
+**Języki i narzędzia:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,py,asm,html,css,js,bash,git,linux,fedora,arduino" />
+  </a>
+</p>
+
+---
+
+### 📊 Statystyki GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeonCode-Studio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statystyki GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonCode-Studio&layout=compact&theme=tokyonight&hide=html,css" alt="Najczęściej używane języki" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeonCode-Studio&theme=tokyonight" alt="GitHub Streak" width="98%" />
+</p>
