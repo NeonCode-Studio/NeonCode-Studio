@@ -33,10 +33,11 @@
 ### 📊 Statystyki GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeonCode-Studio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statystyki GitHub" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeonCode-Studio&layout=compact&theme=tokyonight&hide=html,css" alt="Najczęściej używane języki" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neoncode-studio&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoncode-studio&theme=tokyonight&layout=compact" width="49%" />
 </p>
 
+<!-- Alternatywny wykres aktywności (działa zawsze) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeonCode-Studio&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neoncode-studio&theme=tokyonight" width="100%" />
 </p>
